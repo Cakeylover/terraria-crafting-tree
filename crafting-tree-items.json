@@ -167,7 +167,7 @@
         },
         {
             "name": "cell-phone",
-            "displayName": "Cell Phone",
+            "displayName": "TerraHuh",
             "modName": "Terraria",
             "itemSpacing": [150, 300, 450, 500, 600, 750, 850, 1000],
             "radial": true
